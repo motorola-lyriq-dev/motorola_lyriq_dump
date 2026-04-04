@@ -1,0 +1,20 @@
+## user 15 V1TLS35.73-60-3-7 73817f release-keys
+- Manufacturer: motorola
+- Platform: mt6893
+- Codename: lyriq
+- Brand: motorola
+- Flavor: user
+- Release Version: 15
+- Kernel Version: 6.6.89
+- Id: V1TLS35.73-60-3-7
+- Incremental: 73817f
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 400
+- Fingerprint: motorola/lyriq_g/lyriq:15/V1TLS35.73-60-3-7/73817f:user/release-keys
+- OTA version: 
+- Branch: user-15-V1TLS35.73-60-3-7-73817f-release-keys
+- Repo: motorola_lyriq_dump
